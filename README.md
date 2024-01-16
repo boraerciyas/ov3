@@ -25,6 +25,7 @@ Command line interface to manage basic personal
     -s | --status                                          - Shows the current VPN sessions
     -i | --install [CONFIG_FILE_PATH] [CONF_FILE_PATH2]    - Installs script
     -l | --list                                            - Lists installed config files.
+    -t | --stats                                           - Shows Current Session Stats
 
 
 ## License
